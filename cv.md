@@ -1,7 +1,7 @@
-Darya Shaurka
+## Darya Shaurka
+##### Frond-End Developer Intern/Junior Frond-End Developer
 
-Frond-End Developer Intern/
-Junior Frond-End Developer
+![candidate_photo](photo.jpg)
 
 +37529 968 22 17 
 9682217@gmail.com
@@ -10,14 +10,17 @@ Minsk, Belarus
 
 https://github.com/dashashaurka
 
-Summary
+### Summary
 I am ambitious and well-motivated individual. 
-I possess self-discipline, ability to work with a minimum of supervision and strive to perform my duties to ensure maximum accessibility. 
-I am a quick learner who can absorb new ideas and communicate clearly and effectively.
+I possess self-discipline, ability to work with a minimum 
+of supervision and strive to perform my duties to ensure 
+maximum accessibility. I am a quick learner who can absorb 
+new ideas and communicate clearly and effectively.
 
-Proficient with HTML, CSS and JS, with extensive knowledge of UX and user psychology. 
+Proficient with HTML, CSS and JS, 
+with extensive knowledge of UX and user psychology. 
 
-Inductry skills
+### Industry skills
 
 Fundamental understanding of HTML5, CSS3, JS
 Translate a design into a responsive webpage
@@ -31,11 +34,11 @@ HTML CSS JS
 Bootstrap JQuery Adobe Photoshop
 Git 
 
-Expierence
+### Expierence
 
 Опыт работы. Junior Dev может перечислить учебные проекты с указанием использованных навыков и ссылками на исходный код.
 
-Education
+### Education
 
 BSU'12
 GIUST, management
@@ -50,4 +53,4 @@ Website development using HTML, CSS and JavaScript (100 hours)
 
 
 
-Английский язык (уровень английского языка, если была языковая практика, расскажите о ней)
+### Английский язык (уровень английского языка, если была языковая практика, расскажите о ней)
