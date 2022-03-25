@@ -3,9 +3,12 @@
 
 #### Frond-End Developer Intern/Junior Frond-End Developer
 
+I'm an enthusiastic and detail-oriented Frontend Software Engineer seeking an entry-level position with Company to use my skills in coding, troubleshooting complex problems, and assisting in the timely completion of projects.
+
+
  +37529 968 22 17 
  
- 9682217@gmail.com 
+ darya.shaurko@gmail.com 
  
  https://github.com/dashashaurka
 
@@ -24,8 +27,7 @@ with extensive knowledge of UX and user psychology.
 ***
 
 ### Industry skills
-
->Fundamental understanding of HTML5, CSS3, JS
+>HTML, CSS, JS, Bootstrap, JQuery, Adobe Photoshop, Git 
 
 >Translate a design into a responsive webpage
 
@@ -34,15 +36,19 @@ with extensive knowledge of UX and user psychology.
 >An ability to multi-task on multiple projects and tasks at the same time
 
 >Great attention to detail and be highly organized
+
 >A positive and upbeat attitude with the ability to learn quickly
 
-
->HTML, CSS, JS, Bootstrap, JQuery, Adobe Photoshop, Git 
 ***
 
 ### Expierence
 
 >Educational projects
+
+Landing pages
+
+
+> Freelance HTML coder / Junior Front-End Developer
 
 ***
 
@@ -53,13 +59,13 @@ with extensive knowledge of UX and user psychology.
 GIUST, management
 
 
->IT-Academy'21
+>IT-Academy'22
 
 Fundamentals of web technologies (32 hours)
 
-Basics of HTML CSS  Bootstrap and jquery  Web hosting
+Basics of HTML and CSS,  Bootstrap and jquery,  Web hosting
 
->IT-Academy'21
+>IT-Academy'22
 
 Website development using HTML, CSS and JavaScript (100 hours)
 
