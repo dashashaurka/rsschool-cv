@@ -1,0 +1,113 @@
+.page_body{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    margin: 0;
+    font-weight: 400;
+    font-family: "Trebuchet MS", "Helvetica", sans-serif;
+    line-height: 1.4;
+}
+
+.navigation_list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+ul{
+    list-style: none;
+
+}
+
+header li{
+    padding-bottom: 40px;
+    padding-left: 18px;
+    justify-content: space-between;
+    text-transform: uppercase;
+    font-size: 20px;
+    
+}
+
+a{
+    color: #4e4423;
+}
+
+a:hover{
+    color:#fefde9;
+}
+
+header img, main img{
+    padding-right: 10px;
+    width: 32px;
+    height: 32px;
+}
+footer img{
+    padding-top: 20px;
+    width: 5%;
+    height: 5%;
+    
+}
+.myphoto{
+    height: 100%;
+    width:100%;
+    border-radius: 50% 20% / 10% 40%;
+}
+
+header{
+    display: block;
+    padding: 40px;
+    background-color:#8eb2ac;
+}
+
+.titleCV{
+    display: flex;
+    background-color: #fefde9;
+    width: 500px;
+    margin: 0 auto;
+    padding: 40px;
+    border: 2px solid gray;
+    outline: 10px solid #fefde9;
+    color: #4e4423;
+}
+
+h1{
+    font-size: 35px;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    margin: 0 0 -2px;
+    text-align: center;
+    font-family: "Trebuchet MS", "Helvetica", sans-serif;
+}
+
+
+.subtitleCV{
+    text-align: center;
+    font-family: "Trebuchet MS", "Helvetica", sans-serif;
+    color: #4e4423;
+    font-size: 23px;
+
+}
+
+main{background-color: #fefde9;
+    display: flex;
+    float: inline-start;
+    padding: 40px;
+    justify-content:space-between;
+    flex-flow:row wrap;
+    font-size: 20px;
+    font-family: "Trebuchet MS", "Helvetica", sans-serif;
+    justify-content: center;
+   
+}
+
+main section{
+    border:2px solid #4e4423;
+    margin: 10px;
+    padding: 10px 10px;
+    width: calc(100%/3);
+}
+
+footer{
+    background-color:#8eb2ac;
+    padding: 20px;
+}
